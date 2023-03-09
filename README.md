@@ -1,7 +1,7 @@
 # Ejercicios_Tema8_Oscar
 
 
-Mi repositorio:
+Mi repositorio: https://github.com/OscarLGP30/Ejercicios_Tema8_Oscar.git
 
 1. La guerra de dados
 Requisitos previos: Ejercicio 1 del capítulo La programación orientada a objetos
