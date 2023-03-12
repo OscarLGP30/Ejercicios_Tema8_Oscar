@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0856d6f6-09ee-48c2-8f72-ebb6b1cc411e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/example/Clientes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/example/Obra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/example/Pedido.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/example/JugadorGuerra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/org/example/JugadorGuerra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/example/Clientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/org/example/Clientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/org/example/Obra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/main/java/org/example/Obra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="1597" />
+    <option name="totalTimeSeconds" value="4262" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -78,6 +78,7 @@
       <workItem from="1678385223860" duration="88000" />
       <workItem from="1678385403305" duration="240000" />
       <workItem from="1678641737617" duration="1388000" />
+      <workItem from="1678643321101" duration="2676000" />
     </task>
     <servers />
   </component>
