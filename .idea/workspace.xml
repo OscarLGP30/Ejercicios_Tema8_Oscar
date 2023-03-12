@@ -4,19 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0856d6f6-09ee-48c2-8f72-ebb6b1cc411e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0856d6f6-09ee-48c2-8f72-ebb6b1cc411e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="24" />
+    <option name="totalTimeSeconds" value="200" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +50,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678385214216</updated>
       <workItem from="1678385223860" duration="88000" />
+      <workItem from="1678385403305" duration="240000" />
     </task>
     <servers />
   </component>
