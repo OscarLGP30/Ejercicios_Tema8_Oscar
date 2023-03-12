@@ -88,7 +88,7 @@ public class JugadorGuerra {
         // llama al metodo mostrar() de cada jugador para mostrar sus datos por pantalla.
         jugador1.mostrar();
         jugador2.mostrar();
-        
+
     }
 
 }
